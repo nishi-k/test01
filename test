@@ -1,0 +1,6 @@
+#test
+<?php
+ echo "test01";
+ echo "<hr>";
+?>
+
