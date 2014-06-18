@@ -4,6 +4,10 @@
  echo "<hr>";
 ?>
 
+<<<<<<< HEAD
 add this is add 1
 add this is add 1-2
 
+=======
+this is web commit
+>>>>>>> test/master
